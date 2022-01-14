@@ -19852,7 +19852,7 @@ throw A.d(A.axI("Invalid "+a+": "+s.a,s.b,J.ajp(s)))}else if(t.bE.b(q)){r=q
 throw A.d(A.bp("Invalid "+a+' "'+b+'": '+J.ath(r),J.ajp(r),J.ajo(r)))}else throw p}},
 QO(){var s=0,r=A.T(t.oX),q,p=2,o,n=[],m,l,k,j,i,h,g,f,e,d,c
 var $async$QO=A.U(function(a,b){if(a===1){o=b
-s=p}while(true)switch(s){case 0:f=A.Pz("http","japanese-study-api.herokuapp.com","/words",null)
+s=p}while(true)switch(s){case 0:f=A.Pz("https","japanese-study-api.herokuapp.com","/words",null)
 p=4
 d=A
 c=f
